@@ -1,8 +1,4 @@
-<h1 align="center">K Mohammed Fareeddudin Shaik</h1>
-
-<p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Bengaluru, India
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A101F,45:7C3AED,100:22D3EE&text=K%20Mohammed%20Fareeddudin%20Shaik&fontColor=F8FAFC&fontSize=40&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Analytics%20%C2%B7%20Bengaluru,%20India&descSize=17&descAlignY=52&animation=fadeIn" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Building+%2B+Learning+%2B+Shipping;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;SQL+%C2%B7+Power+BI+%C2%B7+Firebase" alt="what I do" />
@@ -92,3 +88,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fareedshaik6977-cpu&style=for-the-badge&color=22D3EE&labelColor=0A101F" alt="profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:22D3EE,55:7C3AED,100:0A101F&text=Open%20to%20collaborate&fontColor=F8FAFC&fontSize=22&fontAlignY=72&animation=twinkling" alt="footer" />
