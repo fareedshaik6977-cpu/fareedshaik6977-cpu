@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A101F,45:7C3AED,100:22D3EE&text=K%20Mohammed%20Fareeddudin%20Shaik&fontColor=F8FAFC&fontSize=40&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Analytics%20%C2%B7%20Bengaluru,%20India&descSize=17&descAlignY=52&animation=fadeIn" alt="header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fareedshaik6977-cpu/fareedshaik6977-cpu/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fareedshaik6977-cpu/fareedshaik6977-cpu/main/light.svg">
+  <img width="100%" alt="K Mohammed Fareeddudin Shaik" src="https://raw.githubusercontent.com/fareedshaik6977-cpu/fareedshaik6977-cpu/main/dark.svg">
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Building+%2B+Learning+%2B+Shipping;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;SQL+%C2%B7+Power+BI+%C2%B7+Firebase" alt="what I do" />
