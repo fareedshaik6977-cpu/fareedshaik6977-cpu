@@ -24,7 +24,7 @@
 
 - Developer at **NeuNet Tech Solutions** — client websites, coded dashboards and admin panels
 - Previously **Data Science Trainee / Analytics Instructor** at Apponix Technologies
-- **B.E. Computer Science**, Gitam University Bengaluru
+- **B.Tech Computer Science**, Gitam University Bengaluru
 - Currently: shipping full-stack work, keeping the analytics side sharp
 
 ---
